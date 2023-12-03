@@ -59,4 +59,4 @@ jobs:
           app-name: 'express-api-service'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_204D7E1A56134D2B9A45C26E1D7FB703 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4EB0A0BE13C4104ADAABB332E24890F }}
